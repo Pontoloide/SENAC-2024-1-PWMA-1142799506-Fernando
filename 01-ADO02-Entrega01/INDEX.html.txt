@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Smart Trader</title>
+
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+              <li ><a href="trading">Trading</a></li>
+                <li><a href="Analise">Análise</a></li>
+                <li><a href="Plataforma">Plataforma</a></li>
+                <li><a href="sobre"></a>Sobre nós</li>
+                <li><a href="login">login</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="bemvindo">
+            <h2>Uma plataforma de <span id="trader"></span>trading pronta para <span id="serviço"></span>os seus serviços</h2>
+         <p>Comece agora neste mundo de oportunidades e venha fazer parte dos traders inteligentes!</p>
+        </section>
+        <nav>
+        <div class="logo">
+            <figure><img src="assets/SmartTrader.png" alt=""></figure>
+            </div>
+        <div class="fundo">
+             <figure><img src="assets/imagem de fundo do hero.jpg" alt=""></figure>
+        </div>
+    </nav>
+        <!---->
+    </main>
+    <footer>
+        <p>SmartTrader &copy; 2024. Todos os direitos reservados.</p>
+        <p>Ainda tem duvidas? Fale conosco: contato abaixo. </p>
+        <p>Whatsapp: +55 (11)974148151</p>
+    </footer>
+</body>
+</html>
+
